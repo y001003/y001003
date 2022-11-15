@@ -2,9 +2,9 @@
 ### :robot: Interest 
 Data Engineering, Recommend System
 ### :bird: Projects
-메디스트림 추천시스템 개발 22.09.05 ~ 22.10.24
+[메디스트림 추천시스템 개발](https://github.com/y001003/medistream-recsys-public) 22.09.05 ~ 22.10.24
 
-중고차 가격예측 22.05.05 ~ 22.07.24
+[중고차 가격예측](https://github.com/y001003/usedcar_pricing) 22.05.05 ~ 22.07.24
 
 서울시 지가예측 21.08.05 ~ 21.08.31
 
